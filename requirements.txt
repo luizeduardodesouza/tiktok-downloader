@@ -1,0 +1,6 @@
+Commit new file
+Create requirements.txt
+
+Commit directly to the main branch
+
+[ Commit new file ]  ← botão verde
